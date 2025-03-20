@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\source\\repos\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\source\\repos\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\source\\repos\\calculadora\\calculadora\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\source\\repos\\calculadora\\calculadora\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\source\\repos\\calculadora\\calculadora\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\source\\repos\\calculadora\\calculadora\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\source\\repos\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|C:\\Users\\Rever\\source\\repos\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Validacao.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\Calculadora\\Calculadora\\modelo\\Validacao.cs",
               "RelativeDocumentMoniker": "Calculadora\\modelo\\Validacao.cs",
@@ -53,33 +53,33 @@
               "RelativeDocumentMoniker": "Calculadora\\modelo\\Controle.cs",
               "ToolTip": "C:\\Users\\Rever\\source\\repos\\Calculadora\\Calculadora\\modelo\\Controle.cs",
               "RelativeToolTip": "Calculadora\\modelo\\Controle.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T12:05:24.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Calculos.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\Calculadora\\Calculadora\\modelo\\Calculos.cs",
               "RelativeDocumentMoniker": "Calculadora\\modelo\\Calculos.cs",
               "ToolTip": "C:\\Users\\Rever\\source\\repos\\Calculadora\\Calculadora\\modelo\\Calculos.cs",
               "RelativeToolTip": "Calculadora\\modelo\\Calculos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T12:05:06.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\source\\repos\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:26:50.661Z",
               "EditorCaption": ""
