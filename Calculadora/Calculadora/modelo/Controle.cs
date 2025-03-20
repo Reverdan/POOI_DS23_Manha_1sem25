@@ -17,8 +17,8 @@ namespace Calculadora.modelo
             validacao.validar(numero1, numero2, op);
             if (validacao.mensagem.Equals(""))
             {
-                Calculos calculos = new Calculos();
-                mensagem = calculos.calcular(validacao.n1, validacao.n2, op).ToString();
+                Calculos calculos = new Calculos(validacao.n1, validacao.n2, op);
+                mensagem = calculos.resultado.ToString();
             }
             else
             {
