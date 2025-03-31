@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA1FCC5F-2A9C-4AFF-85C2-5BB450A33774}|Calculadora\\Calculadora.csproj|C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora\\Program.cs",
@@ -46,18 +46,17 @@
               "RelativeToolTip": "Calculadora\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:21:37.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T12:21:37.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Validacao.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\modelo\\Validacao.cs",
               "RelativeDocumentMoniker": "Calculadora\\modelo\\Validacao.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\modelo\\Validacao.cs",
               "RelativeToolTip": "Calculadora\\modelo\\Validacao.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T12:05:52.424Z",
               "EditorCaption": ""
@@ -70,33 +69,33 @@
               "RelativeDocumentMoniker": "Calculadora\\modelo\\Controle.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\modelo\\Controle.cs",
               "RelativeToolTip": "Calculadora\\modelo\\Controle.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T12:05:24.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Calculos.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\modelo\\Calculos.cs",
               "RelativeDocumentMoniker": "Calculadora\\modelo\\Calculos.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\modelo\\Calculos.cs",
               "RelativeToolTip": "Calculadora\\modelo\\Calculos.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T12:05:06.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:26:50.661Z",
               "EditorCaption": ""
@@ -110,8 +109,7 @@
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\Calculadora\\Calculadora\\Form1.cs [Projeto]",
               "RelativeToolTip": "Calculadora\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:52:30.531Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-02-27T11:52:30.531Z"
             }
           ]
         }

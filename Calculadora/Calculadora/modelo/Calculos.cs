@@ -8,10 +8,16 @@ namespace Calculadora.modelo
 {
     public class Calculos
     {
-        public Double n1;
-        public Double n2;
-        public String op;
-        public Double resultado;
+        #region Atributos
+
+        private Double n1;
+        private Double n2;
+        private String op;
+        private Double resultado;
+
+        #endregion
+
+        #region Construtores
 
         public Calculos(Double n1, Double n2, string op)
         {
@@ -21,12 +27,25 @@ namespace Calculadora.modelo
             this.calcular();
         }
 
-        public void calcular()
+        #endregion
+
+        #region Métodos
+
+        private void calcular()
         {
             if (this.op.Equals("+")) resultado = this.n1 + this.n2;
             if (this.op.Equals("-")) resultado = this.n1 - this.n2;
             if (this.op.Equals("*")) resultado = this.n1 * this.n2;
             if (this.op.Equals("/")) resultado = this.n1 / this.n2;
         }
+
+        #endregion
+
+        #region Propriedades
+
+        public double Resultado { get => resultado;}
+
+        #endregion
+
     }
 }

@@ -8,9 +8,10 @@ namespace Calculadora.modelo
 {
     public class Validacao
     {
-        public Double n1;
-        public Double n2;
-        public String mensagem;
+
+        private Double n1;
+        private Double n2;
+        private String mensagem;
 
         public void validar(String numero1, String numero2, String op)
         {
@@ -29,5 +30,9 @@ namespace Calculadora.modelo
                 mensagem = "Digite números válidos";
             }
         }
+
+        public double N1 { get => n1; }
+        public double N2 { get => n2; }
+        public string Mensagem { get => mensagem; }
     }
 }

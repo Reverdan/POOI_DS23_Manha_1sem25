@@ -8,22 +8,24 @@ namespace Calculadora.modelo
 {
     public class Controle
     {
-        public String mensagem;
+        private String mensagem;
 
         public void executar(String numero1, String numero2, String op)
         {
             mensagem = "";
             Validacao validacao = new Validacao();
             validacao.validar(numero1, numero2, op);
-            if (validacao.mensagem.Equals(""))
+            if (validacao.Mensagem.Equals(""))
             {
-                Calculos calculos = new Calculos(validacao.n1, validacao.n2, op);
-                mensagem = calculos.resultado.ToString();
+                Calculos calculos = new Calculos(validacao.N1, validacao.N2, op);
+                mensagem = calculos.Resultado.ToString();
             }
             else
             {
-                mensagem = validacao.mensagem;
+                mensagem = validacao.Mensagem;
             }
         }
+
+        public string Mensagem { get => mensagem;}
     }
 }

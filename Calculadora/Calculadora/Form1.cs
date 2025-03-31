@@ -13,7 +13,7 @@ namespace Calculadora
         {
             Controle controle = new Controle();
             controle.executar(txbPrimeiroNumero.Text, txbSegundoNumero.Text, operacao);
-            lblResultado.Text = controle.mensagem;
+            lblResultado.Text = controle.Mensagem;
         }
 
         private void btnSomar_Click(object sender, EventArgs e)
