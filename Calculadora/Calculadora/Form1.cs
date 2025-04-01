@@ -9,6 +9,14 @@ namespace Calculadora
             InitializeComponent();
         }
 
+        public Controle Controle
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void Calcular(String operacao)
         {
             Controle controle = new Controle();

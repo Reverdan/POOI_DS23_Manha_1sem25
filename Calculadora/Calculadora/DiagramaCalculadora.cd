@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Calculadora.modelo.Calculos">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAgKAAAIAAA=</HashCode>
+      <FileName>modelo\Calculos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calculadora.modelo.Controle">
+    <Position X="2.75" Y="4" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEAAAQFAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>modelo\Controle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Calculos" />
+      <Property Name="Validacao" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Calculadora.modelo.Validacao">
+    <Position X="4.75" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAQBAAAEAAIAAAACAAAAAAA=</HashCode>
+      <FileName>modelo\Validacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calculadora.frmPrincipal">
+    <Position X="0.5" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAgACEQEAAIAACCgBACAAAAAQAAAAAAAABIAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controle" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Calculadora.Program">
+    <Position X="5.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="frmPrincipal" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -27,5 +27,21 @@ namespace Calculadora.modelo
         }
 
         public string Mensagem { get => mensagem;}
+
+        public Calculos Calculos
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public Validacao Validacao
+        {
+            get => default;
+            set
+            {
+            }
+        }
     }
 }
