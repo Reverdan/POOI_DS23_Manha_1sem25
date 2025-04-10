@@ -19,7 +19,17 @@ namespace NumeroPrimoManha.modelo
 
         private void Executar()
         {
-
+            this.mensagem = "";
+            Validacao validacao = new Validacao(this.numero);
+            if (validacao.Mensagem.Equals(""))
+            {
+                Primo primo = new Primo(validacao.N1);
+                this.mensagem = primo.Mensagem;
+            }
+            else
+            {
+                this.mensagem = validacao.Mensagem;
+            }
         }
 
         public string Mensagem

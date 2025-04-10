@@ -1,8 +1,10 @@
+using NumeroPrimoManha.modelo;
+
 namespace NumeroPrimoManha
 {
-    public partial class Form1 : Form
+    public partial class frmPrincipal : Form
     {
-        public Form1()
+        public frmPrincipal()
         {
             InitializeComponent();
         }
@@ -10,6 +12,12 @@ namespace NumeroPrimoManha
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnVerificar_Click(object sender, EventArgs e)
+        {
+            Controle controle = new Controle(txbNumero.Text);
+            lblResposta.Text = controle.Mensagem;
         }
     }
 }

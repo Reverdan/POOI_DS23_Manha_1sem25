@@ -19,7 +19,15 @@ namespace NumeroPrimoManha.modelo
 
         private void Verificar()
         {
-
+            this.mensagem = "É primo";
+            for (int i = 2; i < num / 2 + 1; i++)
+            {
+                if (num % i == 0)
+                {
+                    this.mensagem = "Não é primo";
+                    break;
+                }
+            }
         }
 
         public string Mensagem

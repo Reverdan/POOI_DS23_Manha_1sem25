@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\bin\Debug\net7.0-windows\NumeroPrimoManha.exe
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\bin\Debug\net7.0-windows\NumeroPrimoManha.deps.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\bin\Debug\net7.0-windows\NumeroPrimoManha.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\bin\Debug\net7.0-windows\NumeroPrimoManha.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\bin\Debug\net7.0-windows\NumeroPrimoManha.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.frmPrincipal.resources
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.sourcelink.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\refint\NumeroPrimoManha.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\NumeroPrimoManha.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_Manha_1sem25\NumeroPrimoManha\NumeroPrimoManha\obj\Debug\net7.0-windows\ref\NumeroPrimoManha.dll

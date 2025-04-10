@@ -20,7 +20,15 @@ namespace NumeroPrimoManha.modelo
 
 		private void Validar()
 		{
-
+			this.mensagem = "";
+			try
+			{
+				this.n1 = Convert.ToInt32(this.numero);
+			}
+			catch
+			{
+				this.mensagem = "Digite valores válidos";
+			}
 		}
 
         public int N1

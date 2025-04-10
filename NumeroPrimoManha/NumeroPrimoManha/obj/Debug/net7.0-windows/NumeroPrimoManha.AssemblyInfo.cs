@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumeroPrimoManha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4caab5062e116698f0c1cb4f31d59fd95b7bea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff38d97e944fbf598301c7a5303c2b11f6f0091e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumeroPrimoManha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumeroPrimoManha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
