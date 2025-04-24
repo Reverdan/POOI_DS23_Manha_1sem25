@@ -8,16 +8,16 @@ namespace NumeroPrimoManha.modelo
 {
     public class Primo
     {
-		private string mensagem;
-		private int num;
+		public string mensagem;
+		public int num;
 
         public Primo(int num)
         {
             this.num = num;
-            this.Verificar();
+            this.Executar();
         }
 
-        private void Verificar()
+        public void Executar()
         {
             this.mensagem = "É primo";
             for (int i = 2; i < num / 2 + 1; i++)
@@ -29,11 +29,5 @@ namespace NumeroPrimoManha.modelo
                 }
             }
         }
-
-        public string Mensagem
-		{
-			get { return mensagem; }
-		}
-
 	}
 }

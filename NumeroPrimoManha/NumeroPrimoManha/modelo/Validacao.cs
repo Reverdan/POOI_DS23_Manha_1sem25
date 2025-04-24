@@ -8,39 +8,27 @@ namespace NumeroPrimoManha.modelo
 {
     public class Validacao
     {
-		private string mensagem;
-		private int n1;
-		private string numero;
+		public string mensagem;
+		public int num;
+		public string numero;
 
         public Validacao(string numero)
         {
             this.numero = numero;
-			this.Validar();
+			this.Executar();
         }
 
-		private void Validar()
+		public void Executar()
 		{
 			this.mensagem = "";
 			try
 			{
-				this.n1 = Convert.ToInt32(this.numero);
+				this.num = Convert.ToInt32(this.numero);
 			}
 			catch
 			{
 				this.mensagem = "Digite valores válidos";
 			}
 		}
-
-        public int N1
-		{
-			get { return n1; }
-		}
-
-
-		public string Mensagem
-		{
-			get { return mensagem; }
-		}
-
 	}
 }

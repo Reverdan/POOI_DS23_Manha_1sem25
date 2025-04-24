@@ -69,7 +69,6 @@
             Controls.Add(txbNumero);
             Name = "frmPrincipal";
             Text = "Primo";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

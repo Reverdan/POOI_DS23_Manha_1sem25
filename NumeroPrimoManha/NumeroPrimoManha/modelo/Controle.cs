@@ -8,8 +8,8 @@ namespace NumeroPrimoManha.modelo
 {
     public class Controle
     {
-		private string mensagem;
-		private string numero;
+		public string mensagem;
+		public string numero;
 
         public Controle(string numero)
         {
@@ -17,25 +17,20 @@ namespace NumeroPrimoManha.modelo
             this.Executar();
         }
 
-        private void Executar()
+        public void Executar()
         {
             this.mensagem = "";
             Validacao validacao = new Validacao(this.numero);
-            if (validacao.Mensagem.Equals(""))
+            if (validacao.mensagem.Equals(""))
             {
-                Primo primo = new Primo(validacao.N1);
-                this.mensagem = primo.Mensagem;
+                Primo primo = new Primo(validacao.num);
+                this.mensagem = primo.mensagem;
             }
             else
             {
-                this.mensagem = validacao.Mensagem;
+                this.mensagem = validacao.mensagem;
             }
         }
-
-        public string Mensagem
-		{
-			get { return mensagem; }
-		}
 
 	}
 }
