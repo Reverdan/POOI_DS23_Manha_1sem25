@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemperaturaManha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f64211adf936bf5e9815660b67dc0266b191503a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3154b579cde121b18ea71bd14134b85daeb79f38")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemperaturaManha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemperaturaManha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

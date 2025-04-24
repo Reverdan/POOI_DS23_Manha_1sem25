@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\temperaturamanha\\temperaturamanha\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|solutionrelative:temperaturamanha\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\temperaturamanha\\temperaturamanha\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|solutionrelative:temperaturamanha\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\temperaturamanha\\temperaturamanha\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|solutionrelative:temperaturamanha\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\temperaturamanha\\temperaturamanha\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|solutionrelative:temperaturamanha\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\temperaturamanha\\temperaturamanha\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|solutionrelative:temperaturamanha\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_manha_1sem25\\temperaturamanha\\temperaturamanha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FC479649-E05A-41C5-A55E-7E410AA522AE}|TemperaturaManha\\TemperaturaManha.csproj|solutionrelative:temperaturamanha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +43,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "TemperaturaManha\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\Controle.cs",
+              "RelativeToolTip": "TemperaturaManha\\modelo\\Controle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:48:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "TemperaturaManha\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\Validacao.cs",
+              "RelativeToolTip": "TemperaturaManha\\modelo\\Validacao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:46:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\Conversao.cs",
+              "RelativeDocumentMoniker": "TemperaturaManha\\modelo\\Conversao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\Conversao.cs",
+              "RelativeToolTip": "TemperaturaManha\\modelo\\Conversao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:43:42.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "absPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\absPropriedades.cs",
+              "RelativeDocumentMoniker": "TemperaturaManha\\modelo\\absPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\absPropriedades.cs",
+              "RelativeToolTip": "TemperaturaManha\\modelo\\absPropriedades.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:23:57.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "intMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\intMetodos.cs",
+              "RelativeDocumentMoniker": "TemperaturaManha\\modelo\\intMetodos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\modelo\\intMetodos.cs",
+              "RelativeToolTip": "TemperaturaManha\\modelo\\intMetodos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:21:27.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_Manha_1sem25\\TemperaturaManha\\TemperaturaManha\\Form1.cs",
               "RelativeDocumentMoniker": "TemperaturaManha\\Form1.cs",
